@@ -1,4 +1,4 @@
-# Resume
+# Profile
 ## Basic
 - Name: Jianbo Wang.
 
